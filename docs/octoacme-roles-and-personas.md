@@ -75,6 +75,78 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Security Officer
+
+### Role Summary
+Security Officers ensure that all software development and deployment activities comply with security standards and best practices, protecting the organization from vulnerabilities and threats.
+
+### Responsibilities
+- Conduct security assessments and audits
+- Review code for security vulnerabilities
+- Define and enforce security policies and procedures
+- Collaborate on secure design and architecture decisions
+- Respond to security incidents and breaches
+
+### Goals
+- Minimize security risks and vulnerabilities
+- Ensure compliance with industry standards
+- Foster a security-first culture across teams
+
+### Typical Communication
+- Security review meetings and audits
+- Incident reports and remediation plans
+- Policy updates and training sessions
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+DevOps Engineers bridge the gap between development and operations, automating infrastructure, deployments, and monitoring to enable fast, reliable delivery.
+
+### Responsibilities
+- Design and maintain CI/CD pipelines
+- Manage infrastructure as code
+- Monitor system performance and reliability
+- Automate deployment and scaling processes
+- Troubleshoot production issues and optimize performance
+
+### Goals
+- Accelerate deployment cycles
+- Improve system reliability and uptime
+- Reduce manual operational tasks
+
+### Typical Communication
+- Infrastructure updates and deployment notifications
+- Incident response and post-mortem reviews
+- Automation scripts and pipeline documentation
+
+---
+
+## UX Designer
+
+### Role Summary
+UX Designers focus on user experience, ensuring that products are intuitive, accessible, and user-friendly through research, design, and testing.
+
+### Responsibilities
+- Conduct user research and usability testing
+- Create wireframes, prototypes, and design specifications
+- Collaborate with product and development teams on user flows
+- Ensure accessibility and inclusive design practices
+- Iterate on designs based on feedback and data
+
+### Goals
+- Enhance user satisfaction and engagement
+- Reduce user friction and errors
+- Align product design with user needs
+
+### Typical Communication
+- Design reviews and feedback sessions
+- User research reports and findings
+- Prototype demos and iteration updates
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
